@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshitgulia00/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/harshitgulia00/leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/harshitgulia00/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
