@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshitgulia00/leetcode/tree/master/0169-majority-element) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshitgulia00/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Array
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harshitgulia00/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/harshitgulia00/leetcode/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/harshitgulia00/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitgulia00/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Bit Manipulation
@@ -33,5 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshitgulia00/leetcode/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/harshitgulia00/leetcode/tree/master/1288-remove-covered-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshitgulia00/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshitgulia00/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
