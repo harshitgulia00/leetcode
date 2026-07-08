@@ -4,53 +4,48 @@ public:
         const long long MOD = 1000000007;
         int n = s.size();
 
-        vector<int> digits;
-        vector<int> count(n + 1, 0);
+        vector<int> nonZeroCount(n + 1, 0);
+        vector<long long> prefixSum(n + 1, 0);
+        vector<long long> prefixNumber(n + 1, 0);
+        vector<long long> power10(n + 1, 1);
 
         for (int i = 0; i < n; i++) {
-            count[i + 1] = count[i];
+            nonZeroCount[i + 1] = nonZeroCount[i];
+            prefixSum[i + 1] = prefixSum[i];
+            prefixNumber[i + 1] = prefixNumber[i];
+            power10[i + 1] = (power10[i] * 10) % MOD;
 
-            if (s[i] != '0') {
-                digits.push_back(s[i] - '0');
-                count[i + 1]++;
+            int digit = s[i] - '0';
+
+            if (digit != 0) {
+                nonZeroCount[i + 1]++;
+
+                prefixSum[i + 1] += digit;
+
+                prefixNumber[i + 1] =
+                    (prefixNumber[i] * 10 + digit) % MOD;
             }
         }
 
-        int m = digits.size();
-
-        vector<long long> power10(m + 1, 1);
-        vector<long long> prefixNumber(m + 1, 0);
-        vector<long long> prefixSum(m + 1, 0);
-
-        for (int i = 0; i < m; i++) {
-            power10[i + 1] = (power10[i] * 10) % MOD;
-
-            prefixNumber[i + 1] =
-                (prefixNumber[i] * 10 + digits[i]) % MOD;
-
-            prefixSum[i + 1] = prefixSum[i] + digits[i];
-        }
-
         vector<int> result;
+        result.reserve(queries.size());
 
         for (int i = 0; i < queries.size(); i++) {
             int left = queries[i][0];
             int right = queries[i][1];
 
-            int start = count[left];
-            int end = count[right + 1];
+            int before = nonZeroCount[left];
+            int till = nonZeroCount[right + 1];
+            int digitsInRange = till - before;
 
-            int length = end - start;
+            long long sum = prefixSum[right + 1] - prefixSum[left];
 
-            long long number =
-                prefixNumber[end] -
-                (prefixNumber[start] * power10[length]) % MOD;
+            long long number = prefixNumber[right + 1]
+                - (prefixNumber[left] * power10[digitsInRange]) % MOD;
 
             if (number < 0) {
                 number += MOD;
             }
-
-            long long sum = prefixSum[end] - prefixSum[start];
 
             result.push_back((number * sum) % MOD);
         }
