@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harshitgulia00/leetcode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/harshitgulia00/leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/harshitgulia00/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshitgulia00/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitgulia00/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/harshitgulia00/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
