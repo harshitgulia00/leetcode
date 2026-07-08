@@ -8,7 +8,7 @@ public:
             if(prices[i] < buy){
                 buy = prices[i];
             }
-            if(prices[i] - buy > maxProfit){
+            else if(prices[i] - buy > maxProfit){
                 maxProfit = prices[i] - buy;
             }
         }
