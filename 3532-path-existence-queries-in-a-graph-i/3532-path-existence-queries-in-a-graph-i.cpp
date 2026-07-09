@@ -11,7 +11,7 @@ public:
 
             component[i] = group;
         }
-
+    
         vector<bool> ans;
 
         for (int i = 0; i < queries.size(); i++) {
