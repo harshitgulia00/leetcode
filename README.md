@@ -28,16 +28,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/harshitgulia00/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitgulia00/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harshitgulia00/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitgulia00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harshitgulia00/leetcode/tree/master/0136-single-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitgulia00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshitgulia00/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitgulia00/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitgulia00/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitgulia00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harshitgulia00/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/harshitgulia00/leetcode/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/harshitgulia00/leetcode/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitgulia00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/harshitgulia00/leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/harshitgulia00/leetcode/tree/master/0344-reverse-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitgulia00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harshitgulia00/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitgulia00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -87,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harshitgulia00/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitgulia00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitgulia00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
