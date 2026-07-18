@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshitgulia00/leetcode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshitgulia00/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/harshitgulia00/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/harshitgulia00/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitgulia00/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshitgulia00/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitgulia00/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/harshitgulia00/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitgulia00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
