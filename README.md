@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/harshitgulia00/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/harshitgulia00/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgulia00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshitgulia00/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitgulia00/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitgulia00/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/harshitgulia00/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/harshitgulia00/leetcode/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/harshitgulia00/leetcode/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/harshitgulia00/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshitgulia00/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
