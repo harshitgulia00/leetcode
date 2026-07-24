@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/harshitgulia00/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitgulia00/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/harshitgulia00/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitgulia00/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgulia00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/harshitgulia00/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harshitgulia00/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
