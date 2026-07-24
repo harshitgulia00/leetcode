@@ -1,18 +1,15 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
+        int write = 1;
         int prev = nums[0];
-        vector<int> helper = {prev};
-        int ans = 1;
-        for(int num : nums){
-            if(prev != num){
-                ans++;
-                prev = num;
-                helper.push_back(num);
+        for(int read = 0;read < nums.size();read++){
+            if(prev != nums[read]){
+                prev = nums[read];
+                swap(nums[read],nums[write]);
+                write++;
             }
         }
-        nums = helper;
-        return ans;
+        return write;
     }
 };
