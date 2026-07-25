@@ -18,7 +18,7 @@ public:
             }
         }
         if(count > 1){
-            return pow(max1,2);
+            return max1 *  max1;
         }
         int max2 = INT_MIN;
         n = m;
