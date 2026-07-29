@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/harshitgulia00/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/harshitgulia00/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshitgulia00/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/harshitgulia00/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1952-three-divisors](https://github.com/harshitgulia00/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgulia00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/harshitgulia00/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/harshitgulia00/leetcode/tree/master/0344-reverse-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/harshitgulia00/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshitgulia00/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/harshitgulia00/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshitgulia00/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
