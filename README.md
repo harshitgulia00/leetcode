@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/harshitgulia00/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitgulia00/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitgulia00/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/harshitgulia00/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/harshitgulia00/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/harshitgulia00/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitgulia00/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitgulia00/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/harshitgulia00/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/harshitgulia00/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/harshitgulia00/leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshitgulia00/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
