@@ -1,31 +1,26 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        sort(word.begin(), word.end());
+        vector<int> freq(26, 0);
+
+        for (char c : word)
+            freq[c - 'a']++;
 
         vector<int> component;
-        int count = 1;
 
-        for (int i = 1; i < word.length(); i++) {
-            if (word[i] == word[i - 1]) {
-                count++;
-            } else {
-                component.push_back(count);
-                count = 1;
-            }
+        for (int x : freq) {
+            if (x > 0)
+                component.push_back(x);
         }
-
-        // Push the last frequency
-        component.push_back(count);
 
         sort(component.begin(), component.end(), greater<int>());
 
-        int minPush = 0;
+        int ans = 0;
 
         for (int i = 0; i < component.size(); i++) {
-            minPush += component[i] * ((i / 8) + 1);
+            ans += component[i] * ((i / 8) + 1);
         }
 
-        return minPush;
+        return ans;
     }
 };
