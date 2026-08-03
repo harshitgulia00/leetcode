@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshitgulia00/leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshitgulia00/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshitgulia00/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1406-stone-game-iii](https://github.com/harshitgulia00/leetcode/tree/master/1406-stone-game-iii) |
 | [1952-three-divisors](https://github.com/harshitgulia00/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgulia00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/harshitgulia00/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/harshitgulia00/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitgulia00/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/harshitgulia00/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/harshitgulia00/leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitgulia00/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitgulia00/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgulia00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/harshitgulia00/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harshitgulia00/leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitgulia00/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/harshitgulia00/leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitgulia00/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitgulia00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -272,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/harshitgulia00/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harshitgulia00/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/harshitgulia00/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
