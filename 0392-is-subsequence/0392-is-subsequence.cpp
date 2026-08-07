@@ -6,12 +6,10 @@ public:
         if(s.length() > t.length()){
             return false;
         }
-        if(s.length() == 0){
+        if(s.length() == 0 || t.length() == 0){
             return true;
         }
-        if(t.length() == 0){
-            return false;
-        }
+        
         bool ans = false;
         while(i < s.length()){
             if(s[i] == t[j]){
