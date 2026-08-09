@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshitgulia00/leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/harshitgulia00/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshitgulia00/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshitgulia00/leetcode/tree/master/1406-stone-game-iii) |
 | [1952-three-divisors](https://github.com/harshitgulia00/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgulia00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitgulia00/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/harshitgulia00/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitgulia00/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/harshitgulia00/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/harshitgulia00/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitgulia00/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/harshitgulia00/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/harshitgulia00/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harshitgulia00/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/harshitgulia00/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/harshitgulia00/leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitgulia00/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshitgulia00/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitgulia00/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/harshitgulia00/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/harshitgulia00/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harshitgulia00/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshitgulia00/leetcode/tree/master/1406-stone-game-iii) |
 ## Longest Increasing Subsequence
 |  |
@@ -308,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshitgulia00/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
