@@ -8,7 +8,7 @@ public:
             total = total ^ num;
         }
         if(total) return nums.size();
-        if(zero != false) return nums.size() - 1;
+        if(zero) return nums.size() - 1;
         return 0;
     }
 };
