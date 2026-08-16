@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/harshitgulia00/leetcode/tree/master/1510-stone-game-iv) |
 | [1952-three-divisors](https://github.com/harshitgulia00/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgulia00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/harshitgulia00/leetcode/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/harshitgulia00/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/harshitgulia00/leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/harshitgulia00/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshitgulia00/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/harshitgulia00/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgulia00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/harshitgulia00/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshitgulia00/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/harshitgulia00/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/harshitgulia00/leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshitgulia00/leetcode/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/harshitgulia00/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitgulia00/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/harshitgulia00/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshitgulia00/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/harshitgulia00/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/harshitgulia00/leetcode/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshitgulia00/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/harshitgulia00/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitgulia00/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitgulia00/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshitgulia00/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshitgulia00/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshitgulia00/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/harshitgulia00/leetcode/tree/master/2029-stone-game-ix) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -350,15 +355,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/harshitgulia00/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/harshitgulia00/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/harshitgulia00/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/harshitgulia00/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/harshitgulia00/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/harshitgulia00/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
