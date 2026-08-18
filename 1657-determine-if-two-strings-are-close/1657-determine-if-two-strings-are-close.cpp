@@ -1,43 +1,27 @@
 class Solution {
 public:
     bool closeStrings(string word1, string word2) {
-        if(word1.length() != word2.length()){
+
+        if(word1.length() != word2.length())
             return false;
-        }
-        vector<int> vec1;
-        vector<int> vec2;
-        unordered_set<char> set1;
-        unordered_set<char> set2;
-        unordered_map<char,int> freq1;
-        unordered_map<char,int> freq2;
 
-        for(int i = 0;i < word1.length();i++){
-            freq1[word1[i]]++;
-            freq2[word2[i]]++;
+        vector<int> freq1(26, 0);
+        vector<int> freq2(26, 0);
 
-            set1.insert(word1[i]);
-            set2.insert(word2[i]);
+        for(int i = 0; i < word1.length(); i++){
+            freq1[word1[i] - 'a']++;
+            freq2[word2[i] - 'a']++;
         }
 
-        if(set1 != set2) return false;
-        
-        for(auto [key,val] : freq1){
-            vec1.push_back(val);
-        }
-        for(auto [key,val] : freq2){
-            vec2.push_back(val);
-        }
-        sort(vec1.begin(),vec1.end());
-        sort(vec2.begin(),vec2.end());
-
-        int i = 0;
-        while(i < vec1.size()){
-            if(vec1[i] == vec2[i]){
-                i++;
-            }else{
+        // Same characters should exist in both
+        for(int i = 0; i < 26; i++){
+            if((freq1[i] == 0) != (freq2[i] == 0))
                 return false;
-            }
         }
-        return true;
+
+        sort(freq1.begin(), freq1.end());
+        sort(freq2.begin(), freq2.end());
+
+        return freq1 == freq2;
     }
 };
