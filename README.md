@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshitgulia00/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshitgulia00/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/harshitgulia00/leetcode/tree/master/1563-stone-game-v) |
 | [1952-three-divisors](https://github.com/harshitgulia00/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgulia00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/harshitgulia00/leetcode/tree/master/2029-stone-game-ix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitgulia00/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshitgulia00/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshitgulia00/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/harshitgulia00/leetcode/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/harshitgulia00/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/harshitgulia00/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitgulia00/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/harshitgulia00/leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshitgulia00/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/harshitgulia00/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/harshitgulia00/leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitgulia00/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/harshitgulia00/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/harshitgulia00/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/harshitgulia00/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/harshitgulia00/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/harshitgulia00/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/harshitgulia00/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/harshitgulia00/leetcode/tree/master/2029-stone-game-ix) |
 ## Longest Increasing Subsequence
 |  |
