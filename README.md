@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/harshitgulia00/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/harshitgulia00/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshitgulia00/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2390-removing-stars-from-a-string](https://github.com/harshitgulia00/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshitgulia00/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshitgulia00/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harshitgulia00/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/harshitgulia00/leetcode/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshitgulia00/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/harshitgulia00/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/harshitgulia00/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshitgulia00/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshitgulia00/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/harshitgulia00/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
