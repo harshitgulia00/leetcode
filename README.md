@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshitgulia00/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/harshitgulia00/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/harshitgulia00/leetcode/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshitgulia00/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -408,4 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshitgulia00/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshitgulia00/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/harshitgulia00/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
