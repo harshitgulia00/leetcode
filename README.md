@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshitgulia00/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/harshitgulia00/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/harshitgulia00/leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/harshitgulia00/leetcode/tree/master/0486-predict-the-winner) |
 ## Two Pointers
@@ -447,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/harshitgulia00/leetcode/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/harshitgulia00/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
